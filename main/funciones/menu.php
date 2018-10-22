@@ -7,7 +7,7 @@ function getMenuMedico(){
     <ul>
       <li><a href="index.php"</a></li>
       <li><a href="index.php"</a></li>
-      <li><a href="index.php"</a></li>
+      <li><a href="usuario.php"</a></li>
       <li><a href="index.php"</a></li>
     </ul>
 
